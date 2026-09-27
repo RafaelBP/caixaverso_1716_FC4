@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# O pdf da atividade
+PROJETO_ANALISE_DE_DADOS_ESTATISTICA.pdf
+
