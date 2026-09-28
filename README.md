@@ -2,3 +2,4 @@
 
 ## Rafael Bechelli Paviato
 
+## Arquivo para avaliação : analise_de_vendas.ipynb
